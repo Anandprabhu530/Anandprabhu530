@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://anand-prabhu.netlify.app/](https://anand-prabhu.netlify.app/)
+- 👨‍💻 All of my projects are available at my [personal website](https://anand-prabhu.netlify.app/)
 
 - 📫 How to reach me **anandprabhu530@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16wU8cjkOgNPdDjr6tgECHoMkfgafR8iu/view](https://drive.google.com/file/d/16wU8cjkOgNPdDjr6tgECHoMkfgafR8iu/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/16wU8cjkOgNPdDjr6tgECHoMkfgafR8iu/view)
 
 - ⚡ Fun fact **I'm not a coffee drinker.**
 
