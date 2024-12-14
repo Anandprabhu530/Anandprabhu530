@@ -1,6 +1,7 @@
 <h1 align="center" style="padding:20; border-width: 2px;border-color: rgb(255 255 255);" >Hello, I'm Anand Prabhu</h1>
 
 <h2>If you’re looking for someone who knows exactly what they’re doing, you’ve probably got the wrong person. </h2>
+
 <p>I’m a software developer—meaning I spend most of my time staring at my screen, asking why this thing doesn’t work, and then fixing it by accident. My code may not be perfect, but it gets the job done… eventually. 
 </p>
 
