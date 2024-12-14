@@ -1,4 +1,3 @@
-<body style="background-color:#010409; color: rgb(255 255 255); font-family:sans-serif">
 <h1 align="center" style="padding:20; border-width: 2px;border-color: rgb(255 255 255);" >Hello, I'm Anand Prabhu</h1>
 
 <h2>If you’re looking for someone who knows exactly what they’re doing, you’ve probably got the wrong person. </h2>
@@ -19,4 +18,3 @@ You can find about me [here](https://anandprabhu.netlify.app/)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandprabhu530&theme=dark" alt="anandprabhu530" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandprabhu530&label=Profile%20views&color=0e75b6&style=flat" alt="anandprabhu530" /></p>
-</body>
