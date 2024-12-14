@@ -4,7 +4,6 @@
 <h2>If you’re looking for someone who knows exactly what they’re doing, you’ve probably got the wrong person. </h2>
 <p>I’m a software developer—meaning I spend most of my time staring at my screen, asking why this thing doesn’t work, and then fixing it by accident. My code may not be perfect, but it gets the job done… eventually. 
 </p>
-You can find about me [here](https://anandprabhu.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +18,4 @@ You can find about me [here](https://anandprabhu.netlify.app)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandprabhu530&label=Profile%20views&color=0e75b6&style=flat" alt="anandprabhu530" /></p>
 </body>
+You can find about me [here](https://anandprabhu.netlify.app)
